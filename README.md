@@ -1,28 +1,33 @@
 <div align="left">
   <h2>Hi, I'm Giorgos 👋</h2>
-  <h4>PhD researcher using genomics, bioinformatics, and evolutionary biology to uncover the mechanisms shaping biodiversity.</h4>
+  <h4>PhD candidate using NGS & bioinformatics to uncover which evolutionary mechanisms shape divergence </h4>
 </div>
 
 ---
 
 - 🔭 Currently pursuing a PhD in Evolutionary Genomics
-- 🧬 Passionate about de novo genome assembly and comparative genomics
+- 🧬 Passionate about de novo genome assemblies
 - 🐍 Working with Python, R, Linux, and high-performance computing workflows
 - 🌍 Interested in molecular evolution, comparative genomics and population genetics
 
-### Connect with me
+### Connect with me:
 
-[![website](./img/researchgate-light.svg)](https://www.researchgate.net/profile/Georgios-Efthymiadis-3#gh-light-mode-only)
-[![website](./img/researchgate-dark.svg)](https://www.researchgate.net/profile/Georgios-Efthymiadis-3#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://at.linkedin.com/in/giorgos-efthymiadis-95a30a212#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://at.linkedin.com/in/giorgos-efthymiadis-95a30a212#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/museum-light.svg)](https://www.nhm.at/en/georgios_efthymiadis#gh-light-mode-only)
-[![website](./img/museum-dark.svg)](https://www.nhm.at/en/georgios_efthymiadis#gh-dark-mode-only)
+<p align="left">
+  <a href="https://www.researchgate.net/profile/Georgios-Efthymiadis-3">
+    <img src="https://cdn.simpleicons.org/researchgate" alt="ResearchGate" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://at.linkedin.com/in/giorgos-efthymiadis-95a30a212">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.nhm.at/en/georgios_efthymiadis">
+    <img src="https://cdn.simpleicons.org/museum" alt="Natural History Museum Vienna" width="30" height="30" />
+  </a>
+</p>
 ---
 
-### Languages & Tools
+### Languages & Tools:
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
