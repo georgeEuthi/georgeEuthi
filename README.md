@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Hi, I'm Giorgos 👋</h2>
-  <h4>PhD candidate using NGS & bioinformatics to uncover which evolutionary mechanisms shape divergence </h4>
+  <h4>PhD candidate using NGS & bioinformatics to uncover the evolutionary mechanisms shape divergence </h4>
 </div>
 
 ---
