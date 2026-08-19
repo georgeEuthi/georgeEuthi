@@ -1,5 +1,5 @@
 <div align="left">
-  <h2>Hi, I'm Giorgos 👋</h2>
+  <h2>Hey there, my name is Giorgos 👋</h2>
   <h4>PhD candidate using NGS & bioinformatics to uncover the evolutionary mechanisms shaping divergence </h4>
 </div>
 
@@ -7,24 +7,18 @@
 
 - 🔭 Currently pursuing a PhD in Evolutionary Genomics
 - 🧬 Passionate about de novo genome assemblies
-- 🐍 Working with Python, R, Linux, and high-performance computing workflows
+- 🐍 Working mainly with Python and Linux
 - 🌍 Interested in molecular evolution, comparative genomics and population genetics
 
 ### Connect with me:
 
-<p align="left">
-  <a href="https://www.researchgate.net/profile/Georgios-Efthymiadis-3">
-    <img src="https://cdn.simpleicons.org/researchgate" alt="ResearchGate" width="30" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://at.linkedin.com/in/giorgos-efthymiadis-95a30a212">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="30" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.nhm.at/en/georgios_efthymiadis">
-    <img src="https://cdn.simpleicons.org/museum" alt="Natural History Museum Vienna" width="30" height="30" />
-  </a>
-</p>
+### Connect with me:
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Georgios-Efthymiadis-3)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://at.linkedin.com/in/giorgos-efthymiadis-95a30a212)
+
+[![NHM Vienna](https://img.shields.io/badge/NHM_Vienna-555555?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.nhm.at/en/georgios_efthymiadis)
 
 ---
 
