@@ -10,6 +10,8 @@
 - 🐍 Working mainly with Python and Linux
 - 🌍 Interested in molecular evolution, comparative genomics and population genetics
 
+---
+
 ### Connect with me:
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Georgios-Efthymiadis-3)
