@@ -8,7 +8,7 @@
 - 🔭 Currently pursuing a PhD in Evolutionary Genomics
 - 🧬 Passionate about de novo genome assemblies (*always up for a collaboration*)
 - 🐍 Working mainly with Python and Linux
-- 🌍 Interested in molecular evolution, comparative genomics and population genetics
+- 🌍 Focusing on molecular evolution, comparative genomics and population genetics
 
 ---
 
