@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://at.linkedin.com/in/giorgos-efthymiadis-95a30a212)
 
-[![NHM Vienna](https://www.nhm.at/museum/team/mitarbeiter-detail/georgios-efthymiadis)
+<!--  [![NHM Vienna](https://www.nhm.at/museum/team/mitarbeiter-detail/georgios-efthymiadis) -->
 
 ---
 
